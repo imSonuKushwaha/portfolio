@@ -3,7 +3,7 @@ import React from "react";
 const Academic = () => {
   return (
     <>
-      <div className="absolute h-80 w-4/12 flex flex-col justify-center items-start">
+      <div className="absolute h-80 w-4/12 flex flex-col justify-center items-start lg:mt-8 md:mt-32">
         <strong className="text-blue-300 text-xl">
           B.Tech in Computer Engineering
         </strong>
@@ -33,7 +33,7 @@ const Academic = () => {
           <p className="text-sm text-orange-400 pr-16"> 2016 </p>
         </div>
       </div>
-      <div className="relative h-96 w-full flex justify-center items-center text-5xl font-bold text-orange-100 bg-[#44494F] tracking-widest transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:-translate-y-40 hover:opacity-0 ">
+      <div className="relative h-96 lg:h-[500px] md:h-[600px] w-full flex justify-center items-center text-5xl font-bold text-orange-100 bg-[#44494F] tracking-widest transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:-translate-y-40 hover:opacity-0 ">
         ACADEMICS
       </div>
     </>
