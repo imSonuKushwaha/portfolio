@@ -59,7 +59,7 @@ const Experience = () => {
           Created a product-ready mobile application using Flutter.
         </p>
       </div>
-      <div className="relative h-[600px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
+      <div className="relative xl:h-[600px] lg:h-[800px] md:h-[1000px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
         <strong className="text-3xl font-semibold">FRONTEND DEVELOPER</strong>
         <strong className="text-3xl font-semibold">PROBLEM SOLVER</strong>
         <strong className="text-3xl font-semibold">Academic Scorer</strong>
