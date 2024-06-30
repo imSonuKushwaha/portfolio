@@ -3,7 +3,7 @@ import React from "react";
 const Name = () => {
   return (
     <>
-      <div className="flex justify-center items-center text-6xl font-normal text-orange-100">
+      <div className="flex justify-start items-center text-6xl font-normal text-orange-100">
         <strong id="name">S</strong>
         <strong id="name">o</strong>
         <strong id="name">n</strong>

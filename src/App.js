@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="grid grid-cols-12 text-sm font-semibold p-3 bg-[#44494F]">
-        <div className="col-span-4">
+        <div className="col-start-1 col-span-4">
           <Name />
         </div>
         <div className="col-start-10 col-span-3">
