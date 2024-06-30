@@ -13,7 +13,7 @@ function App() {
         <div className="col-start-1 col-span-4">
           <Name />
         </div>
-        <div className="col-start-10 col-span-3">
+        <div className="col-start-9 col-span-4">
           <SocialMedia />
         </div>
       </div>
