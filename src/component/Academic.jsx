@@ -3,10 +3,11 @@ import React from "react";
 const Academic = () => {
   return (
     <>
-      <div className="absolute h-80 w-4/12 flex flex-col justify-center items-start lg:mt-8 md:mt-32">
+      <div className="absolute h-80 w-4/12 flex flex-col justify-center items-start 2xl:mt-2 md:mt-12">
         <strong className="text-blue-300 text-xl">
           B.Tech in Computer Engineering
         </strong>
+        <p></p>
         <strong className="text-2xl text-orange-200">
           Delhi Technological University, India
         </strong>
