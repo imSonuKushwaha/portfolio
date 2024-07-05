@@ -19,7 +19,7 @@ const Experience = () => {
         <p className="mt-3">
           Worked with enthusiastic team to designed a responsive UI focused on
           user experience optimization and integrated RESTful APIs for efficient
-          data exchange between systems. (NHMIS - Health Post)
+          data exchange between systems (NHMIS - Health Post).
         </p>
         <p className="mt-3">
           Enabled realtime data updates to maintain an up-to-date database of

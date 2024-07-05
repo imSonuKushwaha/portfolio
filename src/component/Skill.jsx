@@ -24,13 +24,14 @@ const Skill = () => {
         {func("Tailwind CSS")}
         {func("BootStrap")}
         {func("Ant Design")}
+        {func("Redux")}
         {func("Material UI")}
         {func("OpenAPI")}
         {func("Postman")}
         {func("Firebase")}
         {func("MySQL")}
         {func("MongoDB")}
-        {func("Flask")}
+        {func("Figma")}
         {func("Flutter")}
       </div>
     </>
