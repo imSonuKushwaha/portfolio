@@ -33,7 +33,7 @@ const ResumeButton = () => {
                   }, 300);
                   setTimeout(() => {
                     window.open(
-                      "https://drive.google.com/file/d/1SmP9q0x3du8Im-pO7uGLPNTBz6M4FJaf/view?usp=sharing",
+                      "https://drive.google.com/file/d/1hklI6IDFKxrpJsKeKnjVceon5Ni8o3vt/view?usp=sharing",
                       "_blank"
                     );
                   }, 500);

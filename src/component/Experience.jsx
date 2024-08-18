@@ -17,19 +17,19 @@ const Experience = () => {
           Nagarik Solution Pvt. Ltd.
         </strong>
         <p className="mt-3">
-          Worked with enthusiastic team to designed a responsive UI focused on
+          Worked with an enthusiastic team to design a responsive UI focused on
           user experience optimization and integrated RESTful APIs for efficient
-          data exchange between systems (NHMIS - Health Post).
+          data exchange between systems (NHMIS Health Post).
         </p>
         <p className="mt-3">
-          Enabled realtime data updates to maintain an up-to-date database of
-          reports as per NHMIS requirementsand collaborated with backend teams
+          Enabled real-time data updates to maintain an up-to-date database of
+          reports as per NHMIS requirements and collaborated with backend teams
           to identify, report, and resolve bugs and errors, enhancing overall
           user experience.
         </p>
         <p className="mt-3">
-          Contributed in creating and maintaining dynamic and efficient web
-          applications (Central Hospital System), conspire with healthcare
+          Contributed to creating and maintaining a dynamic and efficient web
+          applications (Central Hospital System), Teamed with healthcare
           professionals to understand user needs and requirements, translating
           them into intuitive and accessible UI designs.
         </p>
