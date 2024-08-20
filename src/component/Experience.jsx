@@ -11,33 +11,36 @@ const Experience = () => {
           <strong className="text-2xl text-orange-200 font-serif">
             Frontend Developer
           </strong>
-          <p className="text-xs text-orange-400 pr-10">April 2024 -- Current</p>
+          <p className="text-xs text-orange-400 pr-10">
+            April 2024 -- August 2024
+          </p>
         </div>
         <strong className="text-blue-300 font-serif">
           Nagarik Solution Pvt. Ltd.
         </strong>
-        <p className="mt-3">
-          Worked with an enthusiastic team to design a responsive UI focused on
-          user experience optimization and integrated RESTful APIs for efficient
-          data exchange between systems (NHMIS Health Post).
-        </p>
-        <p className="mt-3">
-          Enabled real-time data updates to maintain an up-to-date database of
-          reports as per NHMIS requirements and collaborated with backend teams
-          to identify, report, and resolve bugs and errors, enhancing overall
-          user experience.
-        </p>
-        <p className="mt-3">
-          Contributed to creating and maintaining a dynamic and efficient web
-          applications (Central Hospital System), Teamed with healthcare
-          professionals to understand user needs and requirements, translating
-          them into intuitive and accessible UI designs.
-        </p>
-        <p className="mt-3">
-          Participated in code reviews, maintained code quality standards, and
-          performed testing to identify and resolve bugs and issues, ensuring
-          compatibility across various devices and screen sizes.
-        </p>
+        <ul className="list-disc pl-2">
+          <li className="mt-3">
+            Worked with an enthusiastic team to design a responsive UI,
+            optimized for user experience, resulting in a 25% reduction in task
+            completion time. Successfully integrated 20+ RESTful APIs, enhancing
+            data exchange efficiency and reducing system response time by 20%.
+          </li>
+          <li className="mt-3">
+            Implemented a real-time data update process as per NHMIS
+            requirements, resulting in a 50% reduction in report generation time
+            and a 95% increase in data accuracy.
+          </li>
+          <li className="mt-3">
+            Collaborated with back-end teams to identify, report, and resolve
+            bugs, reducing bug recurrence by 40%, leading to a 50% increase in
+            user satisfaction.
+          </li>
+          <li className="mt-3">
+            Teamed with healthcare professionals to understand user needs and
+            requirements, translating them into intuitive and accessible
+            responsive UI designs (Central Hospital System).
+          </li>
+        </ul>
         <p className="mt-3"></p>
         <div className="w-full flex flex-row justify-between items-center border-t-2 border-gray-600 mt-2">
           <strong className="text-2xl text-orange-200 font-serif">
@@ -50,16 +53,23 @@ const Experience = () => {
         <strong className="text-blue-300 font-serif">
           Maroon Engineering solution
         </strong>
-        <p className="mt-3">
-          Developed a responsive website using ReactJS, Express with NodeJS,
-          Tailwind CSS, Material UI, and MongoDB. Optimized web pages for all
-          screen sizes, particularly mobile, to support a Mobile Web App.
-        </p>
-        <p className="my-3">
-          Created a product-ready mobile application using Flutter.
-        </p>
+        <ul className="list-disc pl-2">
+          <li className="mt-3">
+            Built a responsive website with 17 key features using ReactJS,
+            Express with NodeJS, Tailwind CSS, Material UI, and MongoDB,
+            achieving an average page load time of less than 2 seconds.
+          </li>
+          <li className="mt-3">
+            Worked to optimize the responsiveness of web pages for all screen
+            sizes, especially to mobile screens to assist Mobile Web App.
+          </li>
+          <li className="my-3">
+            Created product product-ready mobile application using Flutter,
+            named ePasal.
+          </li>
+        </ul>
       </div>
-      <div className="relative 2xl:h-[650px] lg:h-[770px] md:h-[900px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
+      <div className="relative 2xl:h-[720px] lg:h-[820px] md:h-[920px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
         <strong className="text-3xl font-semibold">FRONTEND DEVELOPER</strong>
         <strong className="text-3xl font-semibold">PROBLEM SOLVER</strong>
         <strong className="text-3xl font-semibold">Academic Scorer</strong>
