@@ -5,7 +5,7 @@ const Experience = () => {
     <>
       <div className="absolute w-8/12 flex flex-col justify-start items-start text-lg font-medium p-4">
         <strong className="w-full text-3xl text-orange-300 text-center mb-4">
-          EXPERIENCES
+          RECENT WORK
         </strong>
         <div className="w-full flex flex-row justify-between items-center">
           <strong className="text-2xl text-orange-200 font-serif">
@@ -41,7 +41,7 @@ const Experience = () => {
             responsive UI designs (Central Hospital System).
           </li>
         </ul>
-        <p className="mt-3"></p>
+        {/* <p className="mt-3"></p>
         <div className="w-full flex flex-row justify-between items-center border-t-2 border-gray-600 mt-2">
           <strong className="text-2xl text-orange-200 font-serif">
             Software Engineer
@@ -67,9 +67,9 @@ const Experience = () => {
             Created product product-ready mobile application using Flutter,
             named ePasal.
           </li>
-        </ul>
+        </ul> */}
       </div>
-      <div className="relative 2xl:h-[720px] lg:h-[820px] md:h-[920px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
+      <div className="relative 2xl:h-[520px] lg:h-[620px] md:h-[720px] w-full flex flex-col justify-center items-center gap-2 bg-[#44494F] transition-all ease-in-out delay-150 duration-700 hover:bg-transparent hover:tracking-extreme hover:opacity-0">
         <strong className="text-3xl font-semibold">FRONTEND DEVELOPER</strong>
         <strong className="text-3xl font-semibold">PROBLEM SOLVER</strong>
         <strong className="text-3xl font-semibold">Academic Scorer</strong>
