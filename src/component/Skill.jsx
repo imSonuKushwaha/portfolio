@@ -20,11 +20,13 @@ const Skill = () => {
         {func("Git")}
         {func("GitLab")}
         {func("ReactJS")}
+        {func("NextJS")}
         {func("Node.js")}
         {func("Tailwind CSS")}
         {func("BootStrap")}
         {func("Ant Design")}
         {func("Redux")}
+        {func("Zustand")}
         {func("Material UI")}
         {func("OpenAPI")}
         {func("Postman")}

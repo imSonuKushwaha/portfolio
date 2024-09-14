@@ -6,7 +6,7 @@ const SocialMedia = () => {
       <div className="flex justify-end items-center gap-3 text-gray-600 pr-2">
         <a
           className="h-16 w-16 p-2 border border-gray-600 rounded-lg bg-orange-100 transition-all ease-in-out delay-150 duration-500 hover:bg-transparent hover:scale-110 hover:bg-github hover:border-none hover:text-transparent flex justify-center items-end"
-          href="https://github.com/SonuKushwaha-hub"
+          href="https://github.com/imSonuKushwaha"
           target="_blank"
         >
           github
