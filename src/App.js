@@ -17,17 +17,11 @@ function App() {
           <SocialMedia />
         </div>
       </div>
-      <div className="grid grid-cols-12 text-base text-orange-100 font-semibold p-3 bg-[#44494F]">
-        <div className="col-start-3 col-span-8">
-          <Experience />
-        </div>
-        <div className="col-start-1 col-span-3">
+      <div className="flex flex-col justify-center items-center text-base text-orange-100 font-semibold p-8 bg-[#44494F]">
+        <Experience />
+        <div className="flex flex-row justify-between items-center mt-20">
           <Tab />
-        </div>
-        <div className="col-start-6 col-span-2 h-full flex justify-center items-center pr-6">
           <ResumeButton />
-        </div>
-        <div className="col-start-9 col-span-4 ">
           <Academic />
         </div>
       </div>
