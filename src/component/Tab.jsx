@@ -11,7 +11,7 @@ const Tab = () => {
         <div className="w-3/4 flex flex-row ">
           <button
             className={`${
-              activeTab === 1 ? "" : "rounded-2xl hover:bg-gray-700"
+              activeTab ? "" : "rounded-2xl hover:bg-gray-700"
             }  w-1/3 text-center text-xl p-1`}
             onClick={() => {
               setActiveTab(true);
@@ -21,7 +21,7 @@ const Tab = () => {
           </button>
           <button
             className={`${
-              !activeTab === 2 ? "" : "rounded-2xl hover:bg-gray-700"
+              !activeTab ? "" : "rounded-2xl hover:bg-gray-700"
             }  w-1/3 text-center text-xl p-1`}
             onClick={() => {
               setActiveTab(false);

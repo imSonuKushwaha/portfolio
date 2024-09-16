@@ -3,7 +3,7 @@ import React from "react";
 const Academic = () => {
   return (
     <>
-      <div className=" w-4/12 flex flex-col justify-center items-start gap-3 border-8 border-gray-600 rounded-3xl p-3 2xl:mt-2 md:mt-12 transition duration-500 ease-in-out hover:translate-y-[-30px]">
+      <div className=" w-4/12 flex flex-col justify-center items-start gap-3 border-8 border-gray-600 rounded-3xl p-3 2xl:mt-2 md:mt-12 transition duration-500 ease-in-out hover:translate-y-[-20px] hover:shadow-2xl shadow-gray-800">
         <strong className="text-blue-300 text-xl">
           B.Tech in Computer Engineering
         </strong>
