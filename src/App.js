@@ -5,7 +5,6 @@ import Name from "./component/Name";
 import CryptoWorld from "./component/Projects/CryptoWorld";
 import ImageSynthesis from "./component/Projects/ImageSynthesis";
 import Onlineshop from "./component/Projects/Onlineshop";
-import PasswordGenerattor from "./component/Projects/PasswordGenerattor";
 import ReactChat from "./component/Projects/ReactChat";
 import TextEditor from "./component/Projects/TextEditor";
 import ResumeButton from "./component/ResumeButton";
