@@ -65,7 +65,7 @@ const DSA = () => {
             target="_blank"
             className="flex flex-row gap-1"
           >
-            CodeChet
+            CodeChef
             <p className="flex justify-center items-center">{linkIcon}</p>
           </a>
         </strong>

@@ -8,8 +8,8 @@ const Academic = () => {
           B.Tech in Computer Engineering
         </strong>
         <strong className="text-2xl text-orange-200 text-pretty ">
-          Delhi Technological University (DTU), formally known as Delhi College
-          of Engineering (DCE), India
+          Delhi Technological University (DTU), formally Delhi College of
+          Engineering (DCE), India
         </strong>
         <div className="w-full flex flex-row justify-between  items-center">
           <strong className="text-xl">8.43 GPA</strong>
