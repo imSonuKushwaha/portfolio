@@ -35,6 +35,7 @@ const Skill = () => {
         {func("MongoDB")}
         {func("Figma")}
         {func("Flutter")}
+        {func("React Native")}
       </div>
     </>
   );
